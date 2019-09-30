@@ -1,5 +1,3 @@
-git remote add origin https://github.com/JFischerAutomation/Tic-Tac-Toe.git
-git push -u origin master
 import random
 
 def player_input():
